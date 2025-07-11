@@ -17,9 +17,9 @@
 |--------|-------------|------------|------|
 | **FIFA 23 Explorer** | Explore FIFA 23 player stats with filters for club, age, overall, and more. | `Python`, `Streamlit`, `Pandas` | [🔗 Repo](https://github.com/joaoeferrari/streamlit_fifa_deploy) · [🌐 Live App](https://fifadeploy.streamlit.app) |
 | **Pandas Practice** | Practical pandas examples in Jupyter notebooks for learning and data manipulation. | `Python`, `Pandas` | [🔗 Repo](https://github.com/joaoeferrari/Pandas_practice) |
-| **Frontend Projects** | Mini frontend apps: form validation, digital clock, animations, etc. | `HTML`, `CSS`, `JavaScript` | [🔗 Repo](https://github.com/joaoeferrari/frontend_projects) |
-| **Pizza Price Predictor** | Linear regression model predicting pizza prices based on diameter. | `Python`, `Streamlit`, `scikit-learn` | [🔗 Repo](https://github.com/joaoeferrari/streamlit_pizza_model) |
-| **VNL Men’s Volleyball Analysis** | Visual analysis of the Volleyball Nations League dataset using Streamlit. | `Python`, `Pandas`, `Streamlit` | [🔗 Repo](https://github.com/joaoeferrari/volleyball_stats_vnl) |
+| **Frontend Projects** | Mini frontend apps: form validation, digital clock, animations, etc. | `HTML`, `CSS`, `JavaScript` | [🔗 Repo](https://github.com/joaoeferrari/Projects) |
+| **Pizza Price Predictor** | Linear regression model predicting pizza prices based on diameter. | `Python`, `Streamlit`, `scikit-learn` | [🔗 Repo](https://github.com/joaoeferrari/pizzas_value) |
+| **VNL Men’s Volleyball Analysis** | Visual analysis of the Volleyball Nations League dataset using Streamlit. | `Python`, `Pandas`, `Streamlit` | [🔗 Repo](https://github.com/joaoeferrari/vnl_aplication) |
 
 ---
 
