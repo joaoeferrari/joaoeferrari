@@ -15,6 +15,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
+| **UFFS** | A collection of academic assignments, algorithms, and programming work developed during my degree at UFFS. | `Python`, `C`, `Java`, `LaTeX` | [🔗 Repo](https://github.com/joaoeferrari/UFFS) |
 | **FIFA 23 Explorer** | Explore FIFA 23 player stats with filters for club, age, overall, and more. | `Python`, `Streamlit`, `Pandas` | [🔗 Repo](https://github.com/joaoeferrari/streamlit_fifa_deploy) · [🌐 Live App](https://fifadeploy.streamlit.app) |
 | **VNL Men’s Volleyball Analysis** | Visual analysis of the Volleyball Nations League dataset using Streamlit. | `Python`, `Pandas`, `Streamlit` | [🔗 Repo](https://github.com/joaoeferrari/vnl_aplication) · [🌐Live App](https://vnlanalysis.streamlit.app/)  |
 | **Pandas Practice** | Practical pandas examples in Jupyter notebooks for learning and data manipulation. | `Python`, `Pandas` | [🔗 Repo](https://github.com/joaoeferrari/Pandas_practice) |
@@ -44,9 +45,7 @@
 
 I’m always open to collaborating on sports analytics or web app projects!  
 Feel free to reach out:
-
-- **GitHub Discussions / Issues**  
-- ⚡ **Email**: ferrarijoao40@gmail.com
+- ✉️ **Email**: ferrarijoao40@gmail.com
 
 ---
 
