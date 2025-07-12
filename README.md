@@ -1,6 +1,6 @@
 # 👋 Hi, I’m João Ferrari
 
-**Data Analyst & Web App Developer** with a passion for sports analytics. I build interactive applications that turn raw sports data into actionable insights—using Python, Pandas, Streamlit, and JavaScript.
+**Data Analyst & Web App Developer** with a passion for sports analytics. I build interactive applications that turn raw sports data into actionable insights, using Python, Pandas, Streamlit, and JavaScript.
 
 ---
 
