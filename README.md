@@ -54,8 +54,8 @@
 
 ## 📫 Let’s Connect
 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ferrarijoao40@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-ferrari-71740b233)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ferrarijoao40@gmail.com): ferrarijoao40@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-ferrari-71740b233): https://www.linkedin.com/in/joão-ferrari-71740b233
 
 
 ---
