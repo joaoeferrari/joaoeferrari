@@ -54,9 +54,9 @@
 
 ## 📫 Let’s Connect
 
-I’m always open to collaborating on sports analytics or web app projects!  
-Feel free to reach out:
-- ✉️ **Email**: ferrarijoao40@gmail.com
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ferrarijoao40@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-ferrari-71740b233)
+
 
 ---
 
